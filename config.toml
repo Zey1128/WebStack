@@ -1,1 +1,35 @@
+baseURL = "https://zey1128.github.io/WebStack/"
+languageCode = "zh-cn"
+title = "My Navigation Site"
 theme = "webstack"
+enableRobotsTXT = true
+
+[params]
+  author = "Zey1128"
+  description = "A fast and clean navigation site"
+  keywords = ["navigation", "tools", "learning", "fun"]
+  defaultTheme = "light"
+  site_logo = "/images/logo.png"
+  site_title = "Navigation"
+  site_subtitle = "All your links in one place"
+
+[[menu.main]]
+  name = "Common Sites"
+  url = "/common/"
+  weight = 1
+
+[[menu.main]]
+  name = "Office Tools"
+  url = "/office/"
+  weight = 2
+
+[[menu.main]]
+  name = "Fun Zone"
+  url = "/fun/"
+  weight = 3
+
+[[menu.main]]
+  name = "Daily Learning"
+  url = "/learn/"
+  weight = 4
+

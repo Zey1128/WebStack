@@ -1,6 +1,6 @@
 +++
-title = "百度"
+title = "Baidu"
 externalLink = "https://www.baidu.com"
-description = "中国最大的搜索引擎"
+description = "China's largest search engine"
 icon = "https://www.baidu.com/favicon.ico"
 +++
